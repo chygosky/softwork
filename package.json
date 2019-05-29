@@ -1,0 +1,31 @@
+{
+  "name": "softwork",
+  "version": "1.0.0",
+  "description": "An online frelance market place",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chygosky/softwork.git"
+  },
+  "keywords": [
+    "work",
+    "online",
+    "money",
+    "sofwork",
+    "remote",
+    "work"
+  ],
+  "author": "Chigozie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chygosky/softwork/issues"
+  },
+  "homepage": "https://github.com/chygosky/softwork#readme",
+  "dependencies": {
+    "jason-server": "^2.0.22",
+    "jest": "^24.8.0"
+  }
+}
