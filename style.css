@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+}
+#header-div {
+height: 60px;
+width: 100%;
+background-color: lightgreen;
+margin: 0 auto;
+float: left;
+}
+#logo-bar {
+padding: 20px 0px 20px 20px;
+float: left;
+}
+#search{
+    margin-left: 0px;
+}
+#search-input{
+    margin-right: 0px;
+    padding-right: 0px;
+    
+}
+#menu-list ul{
+    float: left;
+    position: left;
+ }
+
+#menu-list li{
+    list-style: none;
+    float: left;
+    padding: 10px;
+    position: left;
+}
+
+#menu-list{
+   float: left;
+   position: left;
+}
+
