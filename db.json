@@ -1,0 +1,19 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "firstname": "John",
+      "lastname": "ebuka",
+      "username": "jebu",
+      "password": "password",
+      "email": "email@openmail.com"
+    }
+  ],
+  "Jobs": [{
+    "id": 1,
+    "category": "",
+    "jobname": "",
+    "price": "",
+    "description": ""
+      }]
+}
