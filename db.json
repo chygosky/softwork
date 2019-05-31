@@ -2,8 +2,7 @@
   "user": [
     {
       "id": 1,
-      "firstname": "John",
-      "lastname": "ebuka",
+      "name": "John",
       "username": "jebu",
       "password": "password",
       "email": "email@openmail.com"
