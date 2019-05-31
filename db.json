@@ -9,5 +9,11 @@
       "email": "email@openmail.com"
     }
   ],
-  "Jobs": {}
+  "Jobs": [{
+    "id": 1,
+    "category": "",
+    "jobname": "",
+    "price": "",
+    "description": "",
+      }]
 }
